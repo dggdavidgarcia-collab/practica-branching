@@ -1,7 +1,7 @@
 RECEPTA: Amanida d'estiu
 
 Ingredients:
-- Enciam
+- Enciam fresc de proximitat
 - Tomàquet
 - Ceba
 
@@ -9,3 +9,4 @@ Passos:
 1. Renteu les verdures.
 2. Talleu-les a trossos petits.
 3. Barregeu-ho tot en un bol.
+4. Amaniu just abans de servir
